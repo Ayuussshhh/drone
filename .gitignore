@@ -37,6 +37,13 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+dist/
+coverage/
+
+# Backend Node
+backend-node/dist/
+backend-node/coverage/
+backend-node/logs/
 
 # macOS
 .DS_Store
